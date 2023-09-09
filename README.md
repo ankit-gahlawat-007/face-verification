@@ -9,20 +9,21 @@ I have used keras-facenet package: https://pypi.org/project/keras-facenet/
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-How to use?
+**How to use?**
 
 It uses python3 and following packages:
 - keras_facenet
 - scipy
 - cv2
 
-Put a picture in the data directory. (Currently there is a photo of Brad Pitt in the data directory, you can use that to match how much he resembles you)
-In the python script, change the value of variable 'input' with new picture name.
+Put a picture in the data directory. <br>
+In the python script, change the value of variable 'input' with new picture name. <br>
+(Currently there is a photo of Brad Pitt in the data directory, you can use that to match how much he resembles you) <br>
 Run "python3 face-verification.py".
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-Future add-ons?
+**Future add-ons?**
 
 Instead of just 1 picture, we can change the code to match from multiple photos in the data directory.
 
